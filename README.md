@@ -2,6 +2,7 @@
 This is a game vibecoded in lua, made for the love2d game engine, inspired by the 404 dino game.
 
 Install love2d 
+The installer for your system can be found at https://love2d.org/.
 
 cd to the directory with the main, conf, and ttf file and run the following command.
 
