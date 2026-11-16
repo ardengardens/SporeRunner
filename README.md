@@ -12,3 +12,6 @@ cd to the directory that contains the main, conf, and ttf files and run the foll
 zip -9 -r sporerunner.love . -x "*.DS_Store"
 ~~~
 This should create a love2d file you can run.
+
+You can play a web version of the game here:
+https://mossgardens.itch.io/spore-runner
